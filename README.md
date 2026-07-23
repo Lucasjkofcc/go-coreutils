@@ -1,0 +1,1 @@
+# Uma recriação (em desenvolvimento) do GNU CoreUtils feito em Go
