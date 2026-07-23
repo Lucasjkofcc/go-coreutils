@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	tempo := time.Now().Format("15:04:05")
+	tempo := time.Now().Format("02/01/2006 15:04:05")
 	fmt.Println(tempo)
 }
